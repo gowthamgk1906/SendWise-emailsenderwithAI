@@ -1,1 +1,1 @@
-"# SendWise-emailsenderwithAI" 
+"# EmailsenderwithAI" 
